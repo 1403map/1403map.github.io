@@ -86,4 +86,6 @@ span{
   height: 66px;
   width: 66px;
   border-radius: 33px;
+  margin-left: -20px;
+  margin-top: -20px;
 }
