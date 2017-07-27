@@ -64,12 +64,15 @@ ul a {
   flex-direction: row;
 }
 span{
-  position: absolute;
+  /*position: absolute;*/
+  position: fixed;
   left: 0;
   right: 0;
-  font-size: 25px;
+  top: 590px;
+  font-size: 23px;
   color: #3a3604;
   font-family: sans-serif;
+  z-index: -1;
 }
 .tubiao{
   height: 100%;
@@ -82,5 +85,5 @@ span{
 #xiaohui{
   height: 66px;
   width: 66px;
-  border-radius: 50%;
+  border-radius: 33px;
 }
