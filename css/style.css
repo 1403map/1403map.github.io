@@ -91,3 +91,25 @@ span{
   margin-left: -20px;
   margin-top: -20px;
 }
+#mapTipContent{
+  display: none;
+  /*display: grid;*/
+  position: absolute;
+  top: 20px;
+  left: 1080px;
+  /*z-index: -1;*/
+}
+#show_all{
+  height: 32px;
+  width: 76px;
+  position: fixed;
+  top: 170px;
+  right: 40px;
+  border-radius: 6px;
+  background-color: rgba(150,145,71,0.80);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  z-index: 101;
+}
