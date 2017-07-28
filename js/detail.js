@@ -83,12 +83,12 @@ function show() {
     $(".mapTipText27").css("width","280px");
     $(".mapTipText27").css("height","380px");
     $(".mapTipText27 .mapTipList ul").css("width","203px");
-    $(".all").css("display","grid");
+    $("#mapTipContent").css("display","block");
   }else {
     $(".mapTipText27").css("width","500px");
     $(".mapTipText27").css("height","186px");
     $(".mapTipText27 .mapTipList ul").css("width","420px");
-    $(".all").css("display","none");
+    $("#mapTipContent").css("display","none");
   }
 }
 // function yichu() {

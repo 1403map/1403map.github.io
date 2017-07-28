@@ -93,21 +93,14 @@ span{
 }
 #mapTipContent{
   display: none;
-  /*display: grid;*/
+  /*display: block;*/
   position: absolute;
   top: 20px;
   left: 15px;
   /*right: -36%;*/
   z-index: 0;
 }
-.all{
-  display: none;
-  /*display: grid;*/
-  position: absolute;
-  top: 20px;
-  left: 15px;
-  background-color: #ffffff;
-}
+
 #show_all{
   height: 32px;
   width: 76px;
