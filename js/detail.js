@@ -55,7 +55,7 @@ var student=[{},{xingming:'曹春丽',daxue:'广西财经学院',zhuanye:'',xiao
   {xingming:'余可威',daxue:'福建师范大学',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'袁子凯',daxue:'广西财经学院',zhuanye:'经济统计',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'曾德键',daxue:'',zhuanye:'',xiaohui:''},
-  {xingming:'张钧怡',daxue:'',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
+  {xingming:'张钧怡',daxue:'广西师范学院',zhuanye:'土地资源管理',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'张凯奇',daxue:'',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'张宇红',daxue:'广西财经学院',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'张智',daxue:'',zhuanye:'',xiaohui:''},
