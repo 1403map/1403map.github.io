@@ -1,7 +1,7 @@
 *{margin:0;padding:0;border: none;}
 body { color: #333; text-align: center; font: 12px "微软雅黑";background-color: #489864; }
 .mapTipText{width: 280px;height: 110px;background-color: #ffffff;border-radius: 5px;}
-.mapTipText27{width: 350px;height: 130px;}
+.mapTipText27{width: 500px;height: 186px;}
 .mapTipText .mapTipImg{height: 66px; width: 66px; float: left;border: 2px solid #ffffff; border-radius: 50%;overflow: hidden;margin: -12px 5px 0 -12px;}
 .mapTipText .mapTipImg img{width: 100%;height: 100%;}
 .mapTipText .mapTipList{float: left;margin-left: 4px;}
@@ -10,6 +10,7 @@ body { color: #333; text-align: center; font: 12px "微软雅黑";background-col
 .mapTipText .mapTipList h2 a:hover{ color: #0085d2;}
 .mapTipText .mapTipList h2 a span{font-size: 16px;margin-left: 3px;}
 .mapTipText .mapTipList ul{ width: 203px;padding-right: 10px;}
+.mapTipText27 .mapTipList ul{ width: 420px;padding-right: 10px;}
 .mapTipText .mapTipList ul li{list-style: none;float: left;padding: 7px 3px 0 3px;}
 .mapTipText .mapTipList ul li a{color: #262626;text-decoration:none;}
 .mapTipText .mapTipList ul li a:hover{background-color:#2ebcfe;color:#ffffff;}
