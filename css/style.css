@@ -102,9 +102,11 @@ span{
 }
 .all{
   display: none;
-  position: fixed;
+  /*display: grid;*/
+  position: absolute;
   top: 20px;
   left: 15px;
+  background-color: #ffffff;
 }
 #show_all{
   height: 32px;

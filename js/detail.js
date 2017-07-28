@@ -80,15 +80,15 @@ var if_show = false;
 function show() {
   if_show=!if_show;
   if(if_show==true){
-    $("#mapTipContent .mapTipText27").css("width","280px");
-    $("#mapTipContent .mapTipText27").css("height","380px");
-    $("#mapTipContent .mapTipText27 .mapTipList ul").css("width","203px");
-    $("#mapTipContent").css("display","grid");
+    $(".mapTipText27").css("width","280px");
+    $(".mapTipText27").css("height","380px");
+    $(".mapTipText27 .mapTipList ul").css("width","203px");
+    $(".all").css("display","grid");
   }else {
-    $("#mapTipContent .mapTipText27").css("width","500px");
-    $("#mapTipContent .mapTipText27").css("height","186px");
-    $("#mapTipContent .mapTipText27 .mapTipList ul").css("width","420px");
-    $("#mapTipContent").css("display","none");
+    $(".mapTipText27").css("width","500px");
+    $(".mapTipText27").css("height","186px");
+    $(".mapTipText27 .mapTipList ul").css("width","420px");
+    $(".all").css("display","none");
   }
 }
 // function yichu() {
