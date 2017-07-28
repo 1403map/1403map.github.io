@@ -96,8 +96,8 @@ span{
   /*display: grid;*/
   position: absolute;
   top: 20px;
-  /*left: 700px;*/
-  right: -36%;
+  left: 15px;
+  /*right: -36%;*/
   /*z-index: -1;*/
 }
 #show_all{
