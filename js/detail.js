@@ -70,10 +70,10 @@ var student=[{},{xingming:'曹春丽',daxue:'广西财经学院',zhuanye:'',xiao
 function daxue(xuehao) {
   $(".xingming_1").empty();
   $(".xuexiao_1").empty();
-  $(".zhuanye_1").empty();
+  // $(".zhuanye_1").empty();
   $(".xingming_1").append(student[xuehao].xingming);
   $(".xuexiao_1").append(student[xuehao].daxue);
-  $(".zhuanye_1").append(student[xuehao].zhuanye);
+  // $(".zhuanye_1").append(student[xuehao].zhuanye);
   $("#xiaohui").attr("src",student[xuehao].xiaohui);
 }
 
