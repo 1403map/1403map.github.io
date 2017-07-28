@@ -84,11 +84,13 @@ function show() {
     $(".mapTipText27").css("height","380px");
     $(".mapTipText27 .mapTipList ul").css("width","203px");
     $("#mapTipContent").css("display","block");
+    $("#show_all").html("关闭全部");
   }else {
     $(".mapTipText27").css("width","500px");
     $(".mapTipText27").css("height","186px");
     $(".mapTipText27 .mapTipList ul").css("width","420px");
     $("#mapTipContent").css("display","none");
+    $("#show_all").html("显示全部");
   }
 }
 // function yichu() {
