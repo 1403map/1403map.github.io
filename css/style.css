@@ -98,7 +98,7 @@ span{
   top: 20px;
   left: 15px;
   /*right: -36%;*/
-  /*z-index: -1;*/
+  z-index: 0;
 }
 #show_all{
   height: 32px;
