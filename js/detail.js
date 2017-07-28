@@ -1,7 +1,7 @@
 var student=[{},{xingming:'曹春丽',daxue:'广西财经学院',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'陈春莲',daxue:'广西科技大学',zhuanye:'工业设计',xiaohui:'xiaohui/武科大.jpg'},
   {xingming:'陈佳锐',daxue:'广西电力职业技术学院',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
-  {xingming:'陈家诚',daxue:'广西大学',zhuanye:'动物科学',xiaohui:'xiaohui/西大.jpg'},
+  {xingming:'陈家城',daxue:'广西大学',zhuanye:'动物科学',xiaohui:'xiaohui/西大.jpg'},
   {xingming:'陈景德',daxue:'玉林师范学院',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},
   {},
   {xingming:'陈维嘉',daxue:'',zhuanye:'',xiaohui:'xiaohui/武科大.jpg'},

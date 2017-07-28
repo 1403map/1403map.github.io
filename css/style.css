@@ -100,6 +100,12 @@ span{
   /*right: -36%;*/
   z-index: 0;
 }
+.all{
+  display: none;
+  position: fixed;
+  top: 20px;
+  left: 15px;
+}
 #show_all{
   height: 32px;
   width: 76px;
