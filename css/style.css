@@ -115,3 +115,18 @@ span{
   color: #ffffff;
   z-index: 101;
 }
+@media screen and (max-width: 320px) {
+  #mapTipContent {
+    right: -790px;
+  }
+}
+@media screen and (max-width: 375px) {
+  #mapTipContent {
+    right: -715px;
+  }
+}
+@media screen and (max-width: 425px) {
+  #mapTipContent {
+    right: -650px;
+  }
+}
