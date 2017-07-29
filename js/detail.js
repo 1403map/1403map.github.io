@@ -93,6 +93,11 @@ function show() {
     $("#show_all").html("显示全部");
   }
 }
+var player = document.getElementById("player");
+player.onended = function(){
+  player.play();
+}
+
 // function yichu() {
 //
 // }
