@@ -1,6 +1,6 @@
 //定义画布宽高和生成点的个数
-var WIDTH = window.innerWidth,
-    HEIGHT = window.innerHeight,
+var WIDTH = 1120,
+    HEIGHT = 680,
     POINT = 35;
 
     var canvas = document.getElementById('Mycanvas');
