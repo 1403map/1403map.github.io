@@ -1,14 +1,17 @@
 //定义画布宽高和生成点的个数
-var WIDTH = 1120,
+var WIDTH = document.body.offsetWidth,
     HEIGHT = 680,
-    POINT = 35;
+    POINT = 25;
+    if (WIDTH<1200) {
+      WIDTH=1200;
+    }
 
     var canvas = document.getElementById('Mycanvas');
     canvas.width = WIDTH,
     canvas.height = HEIGHT;
     var context = canvas.getContext('2d');
     context.strokeStyle = 'rgba(0,0,0,0.2)',
-    context.strokeWidth = 1,
+    context.strokeWidth = 5,
     context.fillStyle = 'rgba(0,0,0,0.1)';
     var circleArr = [];
 
@@ -95,5 +98,5 @@ window.onload = function() {
             else if(cir.y < 0) cir.y = HEIGHT;
         }
         draw();
-    }, 10);
+    }, 30);
 }
